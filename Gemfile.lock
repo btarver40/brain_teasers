@@ -1,0 +1,12 @@
+GEM
+  specs:
+    to_words (1.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  to_words
+
+BUNDLED WITH
+   1.16.1
