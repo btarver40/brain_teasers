@@ -1,2 +1,5 @@
 gem 'to_words'
 gem 'numbers_in_words'
+gem 'pry'
+gem 'httparty'
+gem 'json'
